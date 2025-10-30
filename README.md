@@ -43,8 +43,12 @@ The AI model is integrated with the Flutter app via a backend API (or locally us
 
 ## 📸 Screenshots
 
-> _Add your app screenshots here when ready_
 
+![Splash Screen](assets/Screenshot_20250322_211553.png)
+![upload Image](assets/Screenshot_20250322_211246.png)
+![](assets/Screenshot_20250322_211621.png)
+![l](assets/Screenshot_20250322_211649.png)
+ 
 Example sections:
 ```
 📱 Splash Screen – logo & application name  
